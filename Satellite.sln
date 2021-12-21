@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Satellite", "Satellite\Satellite.csproj", "{65F9BC85-E880-4A22-9673-6D39A2986156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Installer", "Installer\Installer.csproj", "{168785A2-DEE7-47C6-8F66-EC36EF2AF63A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F9BC85-E880-4A22-9673-6D39A2986156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F9BC85-E880-4A22-9673-6D39A2986156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F9BC85-E880-4A22-9673-6D39A2986156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F9BC85-E880-4A22-9673-6D39A2986156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168785A2-DEE7-47C6-8F66-EC36EF2AF63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168785A2-DEE7-47C6-8F66-EC36EF2AF63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168785A2-DEE7-47C6-8F66-EC36EF2AF63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168785A2-DEE7-47C6-8F66-EC36EF2AF63A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
